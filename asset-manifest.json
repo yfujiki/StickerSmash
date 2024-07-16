@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/StickerSmash/static/js/main.de364c6f.js",
+    "static/js/237.5c9eb687.js": "/StickerSmash/static/js/237.5c9eb687.js",
+    "favicon.ico": "/StickerSmash/favicon.ico",
+    "index.html": "/StickerSmash/index.html",
+    "favicon-32.png": "/StickerSmash/favicon-32.png",
+    "favicon-16.png": "/StickerSmash/favicon-16.png",
+    "manifest.json": "/StickerSmash/manifest.json",
+    "serve.json": "/StickerSmash/serve.json",
+    "main.de364c6f.js.map": "/StickerSmash/static/js/main.de364c6f.js.map",
+    "237.5c9eb687.js.map": "/StickerSmash/static/js/237.5c9eb687.js.map"
+  },
+  "entrypoints": [
+    "static/js/237.5c9eb687.js",
+    "static/js/main.de364c6f.js"
+  ]
+}
